@@ -1,4 +1,4 @@
-#Image Captioning App
+Image Captioning App
 
 This repository contains an Image Captioning App built with Streamlit and deployed for easy access. The app uses DenseNet for image feature extraction and an LSTM (Long Short-Term Memory) network for generating captions.
 
